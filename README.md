@@ -1,6 +1,6 @@
 # practice-git-using-README
 GIT beginners
-🎉 Git for Beginners: Your Comprehensive README Guide
+🎉 Git for Beginners: Your Comprehensive ultimate README Guide
 
 Welcome to the world of Git! This README is your detailed guide to the essential concepts and commands you need to start version controlling your projects like a pro. Don't worry, we'll keep the jargon to a minimum and the explanations crystal clear.
 
